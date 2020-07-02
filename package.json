@@ -1,0 +1,22 @@
+{
+  "name": "react-assign2",
+  "version": "1.0.0",
+  "description": "Assignment 2 from the Academind Udemy Course: React - The Complete Guide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rag1D2/react-assign2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rag1D2/react-assign2/issues"
+  },
+  "homepage": "https://github.com/Rag1D2/react-assign2#readme",
+  "dependencies": {
+    "create-react-app": "^3.4.1"
+  }
+}
